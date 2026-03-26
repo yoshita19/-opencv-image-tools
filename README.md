@@ -6,7 +6,7 @@ A simple Python project to resize images and compare their dimensions.
 - Resize image by percentage
 - Save resized image
 - Display output
-- Compare original and resized size
+- Compare original and resized size(updated to one line code)
 
 ## 📂 Project Structure
 main.py → main script  
